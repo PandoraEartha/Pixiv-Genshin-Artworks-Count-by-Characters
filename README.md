@@ -1,6 +1,11 @@
 # Pixiv-Genshin-Artworks-Count-by-Characters
 Count Genshin Impact Artworks/Fanarts by Characters on Pixiv/统计Pixiv上各角色同人图数量
 
+## Result
+![visualized_total](https://github.com/PandoraEartha/Pixiv-Genshin-Artworks-Count-by-Characters/assets/98176983/f60f9f63-1217-4f3a-82ea-be6b5a02328b)
+
+For more visulized result, please visit [简体中文介绍](https://zhuanlan.zhihu.com/p/612880505)
+
 ## About
 
 Use Python and Requests to Count Artworks of Genshin Impact Characters, and visualization using Matplotlib.
